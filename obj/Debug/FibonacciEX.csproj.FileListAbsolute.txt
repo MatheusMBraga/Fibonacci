@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Desktop\Programação\C#\Curso_Estudos\Exercicios\FibonacciEX\FibonacciEX\bin\Debug\FibonacciEX.exe.config
+C:\Users\mathe\OneDrive\Desktop\Programação\C#\Curso_Estudos\Exercicios\FibonacciEX\FibonacciEX\bin\Debug\FibonacciEX.exe
+C:\Users\mathe\OneDrive\Desktop\Programação\C#\Curso_Estudos\Exercicios\FibonacciEX\FibonacciEX\bin\Debug\FibonacciEX.pdb
+C:\Users\mathe\OneDrive\Desktop\Programação\C#\Curso_Estudos\Exercicios\FibonacciEX\FibonacciEX\obj\Debug\FibonacciEX.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Desktop\Programação\C#\Curso_Estudos\Exercicios\FibonacciEX\FibonacciEX\obj\Debug\FibonacciEX.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Desktop\Programação\C#\Curso_Estudos\Exercicios\FibonacciEX\FibonacciEX\obj\Debug\FibonacciEX.exe
+C:\Users\mathe\OneDrive\Desktop\Programação\C#\Curso_Estudos\Exercicios\FibonacciEX\FibonacciEX\obj\Debug\FibonacciEX.pdb
+C:\Users\mathe\OneDrive\Desktop\Programação\C#\Curso_Estudos\Exercicios\FibonacciEX\FibanacciEX\FibonacciEX\bin\Debug\FibonacciEX.exe.config
+C:\Users\mathe\OneDrive\Desktop\Programação\C#\Curso_Estudos\Exercicios\FibonacciEX\FibanacciEX\FibonacciEX\bin\Debug\FibonacciEX.exe
+C:\Users\mathe\OneDrive\Desktop\Programação\C#\Curso_Estudos\Exercicios\FibonacciEX\FibanacciEX\FibonacciEX\bin\Debug\FibonacciEX.pdb
+C:\Users\mathe\OneDrive\Desktop\Programação\C#\Curso_Estudos\Exercicios\FibonacciEX\FibanacciEX\FibonacciEX\obj\Debug\FibonacciEX.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Desktop\Programação\C#\Curso_Estudos\Exercicios\FibonacciEX\FibanacciEX\FibonacciEX\obj\Debug\FibonacciEX.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Desktop\Programação\C#\Curso_Estudos\Exercicios\FibonacciEX\FibanacciEX\FibonacciEX\obj\Debug\FibonacciEX.exe
+C:\Users\mathe\OneDrive\Desktop\Programação\C#\Curso_Estudos\Exercicios\FibonacciEX\FibanacciEX\FibonacciEX\obj\Debug\FibonacciEX.pdb
